@@ -1,7 +1,7 @@
 # AI-based-Job-Portal
 AI-powered Job Portal built with React, Node.js, MySQL, and Ollama LLM that provides intelligent job recommendations, AI-generated job descriptions, secure authentication, and job management features.
 
-# 🤖 AI-Based Job Portal
+# AI-Based Job Portal
 
 An AI-powered Job Portal that connects job seekers with recruiters using intelligent job recommendations and AI-generated job descriptions.
 
